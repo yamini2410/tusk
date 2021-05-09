@@ -1,1 +1,4 @@
 download instagram, once installed tap to open it
+
+new user-> create account-> sign in
+else log in
